@@ -7,7 +7,7 @@
 - 🔧 I am currently working on a serious game and fluid simulations
 - 📫 How to reach me Pydjama3#1277 on discord
 
-![](https://www.creativefabrica.com/wp-content/uploads/2019/08/So-many-ideas-so-little-time.jpg)
+![](https://media.istockphoto.com/id/693051356/vector/so-many-ideas-so-little-time-hand-lettering-card-calligraphy.jpg?s=170667a&w=0&k=20&c=rMvXDjLPq4DCda1jcj-WdA31-4aBi9_t6WyOrw_Hxps=)
 > Having too many ideas kills the time to achieve them, this is my problem.
 
 
