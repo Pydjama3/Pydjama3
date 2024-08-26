@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on many projects, share my work with the community, and help
 - ❓ For the moment I am not really active but I hope to get some interesting work done
 - 🔧 I am currently working on a serious game and fluid simulations
-- 📫 How to reach me Pydjama3#1277 on discord
+- 📫 How to reach me: Pydjama3 on discord
 
 ![](https://media.istockphoto.com/id/693051356/vector/so-many-ideas-so-little-time-hand-lettering-card-calligraphy.jpg?s=170667a&w=0&k=20&c=rMvXDjLPq4DCda1jcj-WdA31-4aBi9_t6WyOrw_Hxps=)
 > Having too many ideas kills the time to achieve them, this is my problem.
